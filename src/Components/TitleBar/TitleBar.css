@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@800&display=swap");
+
+#appHeading {
+  font-family: "Roboto Slab", serif;
+  font-size: 150%;
+  color: #6ec08b;
+  /* color: #505050; */
+}
+.appHeadingContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #1e1e1e;
+  padding: 15px;
+  /* box-shadow: 5px 0px 5px #e1e1e1; */
+}
+#titleIcon {
+  color: #505050;
+}

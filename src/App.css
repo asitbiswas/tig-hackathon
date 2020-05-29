@@ -1,0 +1,11 @@
+.TopBar{
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+path{
+    z-index: -3;
+}
+svg{
+    z-index: 9;
+}
